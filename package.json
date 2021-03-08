@@ -1,6 +1,6 @@
 {	
-	"author" : "Beka Batmanashvili",
 	"name": "fcc-learn-npm-package-json",
+	"author" : "Beka Batmanashvili",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
